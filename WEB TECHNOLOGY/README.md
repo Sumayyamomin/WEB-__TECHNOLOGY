@@ -1,14 +1,14 @@
 
-# Assingment1 
-A simple calculator made with HTML.
+# Assignment1
+simple calculator
 
 
-# Assingment2
+# Assignment2
 Squares and Cubes
 
-# Assingment3
-Photo Rating
+# Assignment3
+text growing and text shrinking
 
-# Assingment4
-Program-4
+# Assignment4
+program-4
 

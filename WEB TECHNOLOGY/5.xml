@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS DESCRIPTION </h1>
+</head>
+<students>
+<student>
+<USN>ID : 2TG21CS015</USN>
+<name>Name : Athiya</name>
+<college>COLLEGE :  TCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2021</year>
+<e-mail>E-Mail : athiya@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN :  2TG21CS043 </USN>
+<name>NAME : Ritika </name>
+<college>COLLEGE :  TCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2021</year>
+<e-mail>E-Mail : ritika@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN :  2TG21CS056</USN>
+<name>NAME :Trisha</name>
+<college>COLLEGE :  TCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2021</year>
+<e-mail>E-Mail : trisha@gmail.com</e-mail>
+</student>
+</students>
+</html>

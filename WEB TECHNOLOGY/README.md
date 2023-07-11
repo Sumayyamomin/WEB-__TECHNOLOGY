@@ -18,7 +18,7 @@
 ![Screenshot (2)](https://github.com/Sumayyamomin/WEB-__TECHNOLOGY/assets/136561707/719791d6-14eb-4d91-bcad-a8af172d9b0d)
 
 # p6
-![Screenshot (10)](https://github.com/Sumayyamomin/WEB-__TECHNOLOGY/assets/136561707/5ac00c21-0f3f-471b-b0b5-28587c4794f3)
+![Screenshot (10)](https://github.com/Sumayyamomin/WEB-__TECHNOLOGY/assets/136561707/8edea80d-49fd-467d-ae9c-12100290050b)
 
 # p7
 ![Screenshot (3)](https://github.com/Sumayyamomin/WEB-__TECHNOLOGY/assets/136561707/858c4add-5f8e-4c9e-9a7c-47123e4014b8)
